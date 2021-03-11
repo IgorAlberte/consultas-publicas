@@ -1,30 +1,42 @@
 # Consultas Públicas
 
 ## Descrição
-Este projeto usa como entrada dados de uma pessoa física ou jurídica para realizar consultas a dados públicos, como Polícia Federal, Polícia Civil e Justiça Estadual de MG. Foi feito para ser executado em ambientes Windows. Ao final, o usuário interage com a tela para executar tarefas manuais como CAPTCHA e conclui o download do documento.
+Este projeto é fruto do meu trabalho de conclusão de curso
+do MBA em Tecnologia para Negócios pela Pontifícia Universidade
+Católica do Rio Grande do Sul - PUC-RS. É uma ferramenta
+criada para resolver o problema de consultas frequentes feita
+pelo setor de Controle Interno do SICOOB Credinosso. <br>
+
+Como entrada, o programa usa dados de uma pessoa 
+física ou jurídica para realizar consultas a dados públicos, 
+como Polícia Federal, Polícia Civil e Justiça Estadual de MG. 
+Foi feito para ser executado em ambientes Windows. Ao final, 
+o usuário interage com a tela para executar tarefas manuais 
+como CAPTCHA e conclui o download do documento.
 
 
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Tabela de Conteúdo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+   * [Como usar?](#como-usar)
+      * [Pré-Requisitos](#pre-requisitos)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
-   * [Tests](#testes)
+   * [Testes](#testes)
    * [Tecnologias](#tecnologias)
+   * [Teste](#demonstracao-da-aplicacao)
 <!--te-->
 
 <h4 align="center"> 
 	Status: protótipo concluído
 </h4>
 
-### Features
+## Features
 
 - [x] Consulta de Protesto - Cartório de Protesto
 - [x] Justiça Estadual (MG) - 1ª Instância - Cível
@@ -35,3 +47,4 @@ Tabela de conteúdos
 - [x] Polícia Federal - Antecedentes Criminais (Apenas Pessoa Física)
 - [x] Polícia Civil - Atestado de Antecedentes (Apenas Pessoa Física)
 
+## Demonstração da Aplicação 
