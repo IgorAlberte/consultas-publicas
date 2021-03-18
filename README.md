@@ -75,8 +75,24 @@ apresentadas as consultas possíveis (as pessoa físicas
 - Selenium: https://www.selenium.dev/downloads/
 - Google Chrome WebDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
+Opcionalmente, pode-se gerar um arquivo executável para
+não ser necessário instalar o Python para executar o programa.
+Para isso, recomenda-se o uso da ferramenta cx_Freeze (tutorial
+em https://civcomunb.wordpress.com/2016/08/28/criando-executaveis-com-cx_freeze/).
+
+O arquivo setup.py está configurado para gerar o executável
+com essa ferramenta. Para isso, utiliza-se o comando:
+```bash
+$ python setup.py build
+```
+
 ## Como executar a aplicação
 Para executar a aplicação, primeiro clona-se este repositório:
 ```bash
 $ git clone <https://github.com/IgorAlberte/consultas-publicas>
+```
+
+Vá até a pasta baixada e execute o arquivo main
+````bash
+$ python main.py
 ```
