@@ -4,11 +4,11 @@
 Este projeto é fruto do meu trabalho de conclusão de curso
 do MBA em Tecnologia para Negócios pela Pontifícia Universidade
 Católica do Rio Grande do Sul - PUC-RS. É uma ferramenta
-criada para resolver o problema de consultas frequentes feita
+criada para resolver o problema de consultas frequentes feitas
 pelo setor de Controle Interno do SICOOB Credinosso. <br>
 
 Como entrada, o programa usa dados de uma pessoa 
-física ou jurídica para realizar consultas a dados públicos, 
+física ou jurídica para realizar as consultas a dados públicos, 
 como Polícia Federal, Polícia Civil e Justiça Estadual de MG. 
 Foi feito para ser executado em ambientes Windows. Ao final, 
 o usuário interage com a tela para executar tarefas manuais 
