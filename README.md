@@ -20,14 +20,10 @@ Tabela de conteúdos
 <!--ts-->
    * [Features](#features)
    * [Demonstração da Aplicação?](#Demonstração-da-Aplicação)
-      * [Pré-Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Testes](#testes)
-   * [Tecnologias](#tecnologias)
-   * [Teste](#demonstração-da-aplicação)
+   * [Pré-Requisitos](#Pré-Requisitos)
+   * [Como executar](#Como-executar-a-aplicação)
+   * [Tecnologias utilizadas](#Tecnologias-utilizadas)
+   * [Autor](#Autor)
 <!--te-->
 
 <h4 align="center"> 
