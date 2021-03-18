@@ -74,3 +74,9 @@ apresentadas as consultas possíveis (as pessoa físicas
 - Python 3: https://www.python.org/
 - Selenium: https://www.selenium.dev/downloads/
 - Google Chrome WebDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+## Como executar a aplicação
+Para executar a aplicação, primeiro clona-se este repositório:
+```bash
+$ git clone <https://github.com/IgorAlberte/consultas-publicas>
+```
