@@ -107,6 +107,6 @@ do projeto
 ## Autor
 Igor Alberte ✌️ <br>
 Entre em contato
-- Instagram: @igoralberte
-- E-mail: igoralberte@gmail.com
+- Instagram: https://instagram.com/igoralberte
+- :mailbox: : igoralberte@gmail.com
 
