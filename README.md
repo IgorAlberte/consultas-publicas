@@ -68,3 +68,9 @@ apresentadas as consultas possíveis (as pessoa físicas
 <h1 align="center">
   <img alt="Opções Pessoa Jurídica" title="#OpcoesPJ" src="screenshots/menu-opcoes-pj.PNG" />
 </h1>
+
+## Pré-Requisitos
+É necessário ter instalado:
+- Python 3: https://www.python.org/
+- Selenium: https://www.selenium.dev/downloads/
+- Google Chrome WebDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
