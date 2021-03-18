@@ -18,10 +18,8 @@ como CAPTCHA e conclui o download do documento.
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteúdo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar?](#como-usar)
+   * [Features](#features)
+   * [Demonstração da Aplicação?](#Demonstração-da-Aplicação)
       * [Pré-Requisitos](#pre-requisitos)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
