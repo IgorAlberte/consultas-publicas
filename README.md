@@ -109,3 +109,10 @@ do projeto
 - [Python 3] (https://www.python.org/)
 - [Selenium] (https://www.selenium.dev/)
 - [Cx_Freeze] (https://pypi.org/project/cx-Freeze/)
+
+## Autor
+Igor Alberte
+Entre em contato
+- Instagram: @igoralberte
+- E-mail: igoralberte@gmail.com
+
