@@ -105,7 +105,7 @@ do projeto
 - [Cx_Freeze] (https://pypi.org/project/cx-Freeze/)
 
 ## Autor
-Igor Alberte
+Igor Alberte ✌️ <br>
 Entre em contato
 - Instagram: @igoralberte
 - E-mail: igoralberte@gmail.com
