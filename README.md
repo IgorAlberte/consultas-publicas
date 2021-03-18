@@ -47,7 +47,24 @@ Tabela de conteúdos
 - [x] Polícia Federal - Antecedentes Criminais (Apenas Pessoa Física)
 - [x] Polícia Civil - Atestado de Antecedentes (Apenas Pessoa Física)
 
-## Demonstração da Aplicação 
+## Demonstração da Aplicação
+1) A primeira tela do programa solicita os dados a serem consultados
+nas plataformas públicas. São solicitados os dados do requisitante
+também.
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/tela-inicial.PNG" />
+  <img alt="Tela inicial" title="#TelaInicial" src="screenshots/tela-inicial.PNG" />
+</h1>
+
+2) Caso a consulta seja de alguma pessoa física, são
+apresentadas as consultas possíveis.
+
+<h1 align="center">
+  <img alt="Opções Pessoa Física" title="#OpcoesPF" src="screenshots/menu-opcoes-pf.PNG" />
+</h1>
+
+3) Caso a consulta seja de alguma pessoa jurídica, são
+apresentadas as consultas possíveis (as pessoa físicas
+   têm mais opções)
+<h1 align="center">
+  <img alt="Opções Pessoa Jurídica" title="#OpcoesPJ" src="screenshots/menu-opcoes-pj.PNG" />
 </h1>
