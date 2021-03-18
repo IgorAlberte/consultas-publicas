@@ -27,7 +27,7 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	Status: protótipo concluído
+	Status: protótipo concluído :white_check_mark:
 </h4>
 
 ## Features
