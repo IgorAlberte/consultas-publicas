@@ -75,6 +75,9 @@ apresentadas as consultas possíveis (as pessoa físicas
 - Selenium: https://www.selenium.dev/downloads/
 - Google Chrome WebDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
+No Windows, é importante lembrar-se de instalar a ferramenta
+pip.
+
 Opcionalmente, pode-se gerar um arquivo executável para
 não ser necessário instalar o Python para executar o programa.
 Para isso, recomenda-se o uso da ferramenta cx_Freeze (tutorial
@@ -86,13 +89,16 @@ com essa ferramenta. Para isso, utiliza-se o comando:
 $ python setup.py build
 ```
 
+Este comando cria um executável na pasta build que fica
+no diretório raiz clonado.
+
 ## Como executar a aplicação
 Para executar a aplicação, primeiro clona-se este repositório:
 ```bash
-$ git clone <https://github.com/IgorAlberte/consultas-publicas>
+$ git clone https://github.com/IgorAlberte/consultas-publicas
 ```
 
 Vá até a pasta baixada e execute o arquivo main
-````bash
+```bash
 $ python main.py
 ```

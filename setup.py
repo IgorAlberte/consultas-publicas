@@ -5,13 +5,13 @@ from cx_Freeze import setup, Executable
 # executable options
 script = 'main.py'                                                       # nome do arquivo principal .py a ser compilado
 base = None                                                           # usar 'Win32GUI' para gui's e 'None' para console
-icon = 'balao.png'                                                          # nome (ou diretório) do icone do executável
+# icon = 'balao.png'                                                          # nome (ou diretório) do icone do executável
 targetName = 'Robo de consulta.exe'                                                       # nome do .exe que será gerado
 
 # build options
 packages = ['selenium']                                                         # lista de bibliotecas a serem incluídas
 includes = []                                                                       # lista de módulos a serem incluídos
-include_files = ['balao.png']                           # lista de outros arquivos a serem incluídos (imagens, dados...)
+include_files = []                           # lista de outros arquivos a serem incluídos (imagens, dados...)
 
 # shortcut options
 shortcut_name = 'Robo de consulta'                            # nome do atalho que será criado no processo de instalação
@@ -78,7 +78,7 @@ opt = {
 exe = Executable(
     script=script,
     base=base,
-    icon=icon,
+    # icon=icon,
     targetName=targetName,
     # shortcutName=shortcut_name,
     # shortcutDir='DesktopFolder'
