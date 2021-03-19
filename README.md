@@ -100,9 +100,9 @@ $ python main.py
 ## Tecnologias utilizadas
 As seguintes ferramentas foram usadas para o desenvolvimento
 do projeto
-- [Python 3] (https://www.python.org/)
-- [Selenium] (https://www.selenium.dev/)
-- [Cx_Freeze] (https://pypi.org/project/cx-Freeze/)
+- [Python 3](https://www.python.org/)
+- [Selenium](https://www.selenium.dev/)
+- [Cx_Freeze](https://pypi.org/project/cx-Freeze/)
 
 ## Autor
 Igor Alberte ✌️ <br>
