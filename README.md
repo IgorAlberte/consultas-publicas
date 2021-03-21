@@ -64,13 +64,16 @@ apresentadas as consultas possíveis (as pessoa físicas
 </h1>
 
 ## Pré-Requisitos
+No Windows, é importante lembrar-se de instalar a ferramenta
+pip.
+
 É necessário ter instalado:
 - Python 3: https://www.python.org/
 - Selenium: https://www.selenium.dev/downloads/
-- Google Chrome WebDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
-
-No Windows, é importante lembrar-se de instalar a ferramenta
-pip.
+- Gerenciador do Google Chrome WebDriver através do comando:
+```bash
+pip install webdriver-manager
+```
 
 Opcionalmente, pode-se gerar um arquivo executável para
 não ser necessário instalar o Python para executar o programa.

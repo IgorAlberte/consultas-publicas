@@ -12,13 +12,17 @@ import consulta_sec_municipal
 import policia_federal
 import policia_civil
 from selenium.webdriver.remote.command import Command
+from webdriver_manager.chrome import ChromeDriverManager
+
 import os
 
 # Função que abre o Google Chrome
 
 
 def abre_navegador():
-    chrome = webdriver.Chrome()
+
+    # chrome = webdriver.Chrome()
+    chrome = webdriver.Chrome(ChromeDriverManager().install())
 
     return chrome
 
